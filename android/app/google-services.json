@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491267578450",
+    "firebase_url": "https://service-app-a8ef3.firebaseio.com",
+    "project_id": "service-app-a8ef3",
+    "storage_bucket": "service-app-a8ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491267578450:android:cedb33bda49e0072ec5d8b",
+        "android_client_info": {
+          "package_name": "com.goodeal.serviceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491267578450-qah4fta9aaaqten5ifjdsifmdff9b7db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcNdDgti507f7hXW4YX1UMxEp4DK0srnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491267578450-qah4fta9aaaqten5ifjdsifmdff9b7db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
