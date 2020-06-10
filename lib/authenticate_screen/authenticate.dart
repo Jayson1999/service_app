@@ -1,8 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:serviceapp/firebase/auth.dart';
-import 'package:serviceapp/home_screen/home.dart';
 import 'package:serviceapp/loading.dart';
 import 'package:serviceapp/my_flutter_app_icons.dart';
 
